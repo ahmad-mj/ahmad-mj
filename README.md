@@ -10,7 +10,7 @@
   
 </p>
 <div display="flex">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-mj&theme=dark&show_icons=true)
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-mj&theme=dark&show_icons=true)</p>
 
 
 
