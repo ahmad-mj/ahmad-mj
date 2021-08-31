@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm currently working on becoming a good developer👨🏽‍💻
-- 🌱 I’m currently learning everything🤯
+- 🌱 I’m currently learning React Native <img src='https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png' alt='react native' width="40" height="40"/>
 - 💬 Ask me about how to deal with dogs🐕🐩
 - ⚡ Fun fact: I talk code with my dogs🐶
 - 📫 How to reach me: <p align="left">
