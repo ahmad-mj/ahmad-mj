@@ -2,8 +2,8 @@
 
 
 - 🔭 I'm currently working on becoming a good developer👨🏽‍💻
-<!-- - 🌱 I’m currently learning <a href='https://reactnative.dev/' target="_blank"> <img src='https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png' alt='react native' width="24" height="24"/></a> -->
-- 💬 Ask me about how to deal with dogs🐕🐩
+<!-- - 🌱 I’m currently learning <a href='https://reactnative.dev/' target="_blank"> <img src='https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png' alt='react native' width="24" height="24"/></a> 
+- 💬 Ask me about how to deal with dogs🐕🐩 -->
 - ⚡ Fun fact: I make the best falafel in Berlin <a target="blank"><img src="https://static.wixstatic.com/media/2cd43b_0b806d94872e4c24a89ea3acf95cf36d~mv2.png?dn=Falafel%20(57).png" width="24" height="24" alt="falafel"/></a>
 - 📫 How to reach me: <p align="left">
 <a href="https://linkedin.com/in/ahmad-al-mujawer" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" height="24"/></a>
